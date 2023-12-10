@@ -2,6 +2,7 @@
 the analysis code for CS236 project
 
 The machine learning training and inference were conducted on the Web UI platform: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+The LoRA model for the pixel-art style is in this shared google drive: https://drive.google.com/drive/folders/16BTs-uk4XDWfeYNcp65Tfj4kDn654zTf?usp=sharing
 
 ## image_processing.py
 frequency_analysis: compute the intensity of the high-frequency signals in the image using FFT. The input is the image name of the analysis target.
